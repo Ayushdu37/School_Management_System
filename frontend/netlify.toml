@@ -12,3 +12,7 @@
     Cache-Control = "no-cache, no-store, must-revalidate"
 
 
+[build]
+  base = "frontend"
+  publish = "build"
+  command = "npm run build"
