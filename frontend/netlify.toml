@@ -1,5 +1,6 @@
 [build.environment]
   NODE_VERSION = "18"
+  CI = "false"
 
 [[redirects]]
   from = "/*"
@@ -20,5 +21,3 @@
 [functions]
   directory = "netlify/functions"
 
-[build.environment]
-  CI = "false"
