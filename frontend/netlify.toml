@@ -20,6 +20,5 @@
 [functions]
   directory = "netlify/functions"
 
-# netlify.toml
 [build.environment]
   CI = "false"
