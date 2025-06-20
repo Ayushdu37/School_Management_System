@@ -42,7 +42,7 @@ The School Management System is a web-based application built using the MERN (Mo
 # Installation
 
 ```sh
-git clone https://github.com/Ayushdu37/School_Management_System/edit/main/README.md
+git clone https://github.com/Ayushdu37/School_Management_System
 ```
 Open 2 terminals in separate windows/tabs.
 
