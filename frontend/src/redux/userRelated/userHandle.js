@@ -12,7 +12,7 @@ import {
     getFailed,
     getError,
 } from './userSlice';
-const REACT_APP_BASE_URL = process.env.REACT_APP_BACKEND_URL;
+const REACT_APP_BASE_URL = process.env.REACT_APP_BASE_URL;
 
 
 export const loginUser = (fields, role) => async (dispatch) => {
